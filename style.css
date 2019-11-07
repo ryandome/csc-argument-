@@ -1,1 +1,20 @@
+.zero
+{
+    text-align:center;
+    margin-right: 100px;
+    margin-left: 100px;
+}
 
+.one
+{
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    font-size:22px;
+    line-height: 30px;
+}
+
+body
+{
+    background-color:beige
+}
